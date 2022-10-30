@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'bpg nino mtavruli normal';
+	src: url('bpg_nino_mtavruli_normal-webfont.eot');
+	src: url('bpg_nino_mtavruli_normal-webfont.eot?#iefix') format('embedded-opentype'),
+		url('bpg_nino_mtavruli_normal-webfont.woff') format('woff'),
+		url('bpg_nino_mtavruli_normal-webfont.ttf') format('truetype'),
+		url('bpg_nino_mtavruli_normal-webfont.svg') format('svg');
+}
